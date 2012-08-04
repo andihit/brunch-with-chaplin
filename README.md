@@ -1,4 +1,6 @@
 # Brunch with Chaplin
+![](https://a248.e.akamai.net/camo.github.com/b7ebb8bbcec7938940cf8e9c441124c3bddafd3a/687474703a2f2f662e636c2e6c792f6974656d732f34373039326b30423141334a317a3166306b34362f6277632e706e67)
+
 Brunch with Chaplin is a skeleton (boilerplate) for [Brunch](http://brunch.io) 
 based on [Chaplin](https://github.com/chaplinjs/chaplin) framework.
 
@@ -12,7 +14,7 @@ so you don't need to specify `--skeleton` option for the command.
 * Open the `public/` dir to see the result.
 * Write your code.
 
-Example application built with the lib:
+Example application built with the skeleton:
 [Ost.io](https://github.com/paulmillr/ostio).
 
 See [Chaplin github page](https://github.com/chaplinjs/chaplin) for
@@ -51,7 +53,7 @@ Versions of software the skeleton uses:
 * jQuery 1.7.2
 * Backbone 0.9.2
 * Underscore 1.3.3
-* Chaplin [2dc3b2](https://github.com/moviepilot/chaplin/commit/2dc3b2e2d0eb95678367aad3e2af0f16c889bac7)
+* chaplin 1.0.0-pre [1d457f2](https://github.com/chaplinjs/chaplin/commit/284a9c0)
 
 ## License
 The MIT license.
